@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37599a4b-1139-4584-9ca8-0991e9650891" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luxfacta/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luxfacta/Path.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/luxfacta/PathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/luxfacta/PathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luxfacta/Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luxfacta/Path.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
