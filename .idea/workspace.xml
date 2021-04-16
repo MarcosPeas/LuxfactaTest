@@ -34,7 +34,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.PalindromeTest">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luxfacta.Main" />
+      <module name="LuxFactaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxfacta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LuxfactaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LuxFactaTest" />
       <extension name="coverage">
@@ -97,28 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LuxFactaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luxfacta.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luxfacta" />
-      <option name="MAIN_CLASS_NAME" value="com.luxfacta.PathTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.PalindromeTest" />
         <item itemvalue="JUnit.PalindromeTest.isPalindromeLowerCaseTest" />
         <item itemvalue="JUnit.PalindromeTest.isPalindromeUpperCaseTest" />
         <item itemvalue="JUnit.LuxfactaTest" />
-        <item itemvalue="JUnit.PathTest" />
       </list>
     </recent_temporary>
   </component>
