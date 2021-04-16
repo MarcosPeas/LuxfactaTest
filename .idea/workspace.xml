@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37599a4b-1139-4584-9ca8-0991e9650891" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/luxfacta/LuxfactaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/luxfacta/LuxfactaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.PathTest">
+  <component name="RunManager" selected="JUnit.LuxfactaTest">
+    <configuration name="LuxfactaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LuxFactaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxfacta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxfacta" />
+      <option name="MAIN_CLASS_NAME" value="com.luxfacta.LuxfactaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LuxFactaTest" />
       <extension name="coverage">
@@ -84,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LuxfactaTest" />
         <item itemvalue="JUnit.PathTest" />
         <item itemvalue="JUnit.PathTest.rootWithBarOnStartTest" />
         <item itemvalue="JUnit.PathTest.rootWithEspecialCharacteresPathTest" />
